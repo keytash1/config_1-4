@@ -1,0 +1,15 @@
+<application> 
+    <name>MyApp</name> 
+    <version>1.2.3</version> 
+    <features> 
+        <!-- Основные функции --> 
+        <feature>Authentication</feature> 
+        <feature>Data Analysis</feature> 
+        <feature>Reporting</feature> 
+    </features> 
+    <limits> 
+        <!-- Пределы --> 
+        <users>100</users> 
+        <storage>500GB</storage> 
+    </limits> 
+</application> 
