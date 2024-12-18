@@ -1,0 +1,26 @@
+<result>
+    <memory>
+        <address>200</address>
+        <value>1</value>
+    </memory>
+    <memory>
+        <address>201</address>
+        <value>0</value>
+    </memory>
+    <memory>
+        <address>202</address>
+        <value>1</value>
+    </memory>
+    <memory>
+        <address>203</address>
+        <value>1</value>
+    </memory>
+    <memory>
+        <address>204</address>
+        <value>0</value>
+    </memory>
+    <memory>
+        <address>205</address>
+        <value>1</value>
+    </memory>
+</result>

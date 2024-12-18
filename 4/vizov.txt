@@ -1,0 +1,2 @@
+py assembler.py input.asm program.bin log.xml
+py interpreter.py program.bin (200, 205) result.xml
